@@ -1,0 +1,3 @@
+[submodule "Social-Distancing-Analyzer"]
+	path = Social-Distancing-Analyzer
+	url = https://github.com/sherwyn11/Social-Distancing-Analyzer.git
